@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Kb_ecom" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_color</item>
+        <item name="colorAccent">@color/secondary_color</item>
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/firasanslight</item>
+        <item name="fontFamily">@font/firasanslight</item>
+
+
+    </style>
+</resources>
